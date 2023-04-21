@@ -8,6 +8,6 @@ With over 3+ years of personal training experience and several more in my own pe
 
 ## Visuals
 
-![Push-It Landing Page](https://imgur.com/rr28sIe)
+![Push-It Landing Page](https://github.com/benjaminstratton/pushIt_workoutApp/assets/pushIt_screenshot.png)
 
 ## Supporting Documents
