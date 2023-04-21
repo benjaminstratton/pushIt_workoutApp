@@ -8,6 +8,6 @@ With over 3+ years of personal training experience and several more in my own pe
 
 ## Visuals
 
-![Push-It Landing Page](https://ibb.co/9sZwBnX)
+![Push-It Landing Page](https://imgur.com/rr28sIe)
 
 ## Supporting Documents
