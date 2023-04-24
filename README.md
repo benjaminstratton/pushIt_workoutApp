@@ -6,7 +6,7 @@ With over 3+ years of personal training experience and several more in my own pe
 * Created with a Postgres database, Node.js, Express.js, React, Material UI, JWT, bcrypt, and much more!
 * Includes user authentication, email and password verification, private routes, user quiz that generates custom feedback, and full CRUD for storing information.
 
-Check out the published project [here](https://push-it-app-frontend.herokuapp.com/)
+Check out the published project [here](https://push-it-app-frontend.herokuapp.com/).
 
 ## Visuals
 
